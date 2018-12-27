@@ -18,7 +18,10 @@ function johnLennonFacts(facts) {
 }
 
 iLoveTheBeatles(n){
+  var n = 0
   var Newarray = []
   do{Newarray.push('I love the beatles')
-}while()
+  ++n
+} while(n<15)
+return Newarray
 }
