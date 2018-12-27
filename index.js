@@ -16,4 +16,3 @@ function johnLennonFacts(facts) {
   }
   return loudFacts
 }
-
