@@ -16,3 +16,10 @@ function johnLennonFacts(facts) {
   }
   return loudFacts
 }
+
+iLoveTheBeatles(n){
+  var Newarray = []
+  do{Newarray.push('I love the beatles')
+}while(Newarray.length<[15])
+}
+
