@@ -17,7 +17,7 @@ function johnLennonFacts(facts) {
   return loudFacts
 }
 
-iLoveTheBeatles(n){
+function iLoveTheBeatles(n){
   var n = 0
   var Newarray = []
   do{Newarray.push('I love the beatles')
