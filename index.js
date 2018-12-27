@@ -17,11 +17,11 @@ function johnLennonFacts(facts) {
   return loudFacts
 }
 
-function iLoveTheBeatles(n){
-  var n = 0
-  var Newarray = []
-  do{Newarray.push('I love the beatles')
-  ++n
-} while(n<15)
-return Newarray
-}
+function iLoveTheBeatles(n) {
+  const array = []
+
+  do {
+    array.push('I love the Beatles!')
+    n++
+  } while(n < 15)
+
