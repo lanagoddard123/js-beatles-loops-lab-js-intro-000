@@ -15,6 +15,7 @@ const facts = [
 ];
 
 johnLennonFacts(facts){
+  var exclamation = []
   while(facts.length>-1){
     facts.push('!!!')
   } return facts
