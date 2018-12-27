@@ -17,5 +17,3 @@ function johnLennonFacts(){
   }
   return newFacts;
 }
-
-
