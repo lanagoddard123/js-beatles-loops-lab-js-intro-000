@@ -17,6 +17,6 @@ const facts = [
 function johnLennonFacts(array){
   var exclamation = []
   while(facts.length>-1){
-    facts.push('!!!')
+    exclamation.push(facts[0,1,2,3]+'!!!')
   } return exclamation
 }
