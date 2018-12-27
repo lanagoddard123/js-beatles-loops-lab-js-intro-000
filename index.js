@@ -14,7 +14,7 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-function johnLennonFacts(facts){
+function johnLennonFacts(array){
   var exclamation = []
   while(facts.length>-1){
     facts.push('!!!')
